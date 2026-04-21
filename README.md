@@ -7,11 +7,8 @@
 
 ## 🔗 Link Demo
 
-**Live Demo Specs Shop di GitHub Pages(https://anwari-diky.github.io/Diki_Anwari_UTS_Web2/index.html)**
-🌐 Demo Aplikasi
+🌐 Demo Aplikasi [Live Demo  Specs Shop di GitHub Pages](https://anwari-diky.github.io/Diki_Anwari_UTS_Web2/)
 
-Aplikasi telah berhasil dideploy dan dapat diakses secara publik melalui tautan berikut:
-👉 [Live Demo  Specs Shop di GitHub Pages](https://anwari-diky.github.io/Diki_Anwari_UTS_Web2/)
 ---
 
 ## 📋 Deskripsi Project
