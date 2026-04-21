@@ -7,7 +7,7 @@
 
 ## 🔗 Link Demo
 
-**[https://username.github.io/NamaDepan_NamaBelakang_UTS_Web2/](https://anwari-diky.github.io/Diki_Anwari_UTS_Web2/index.html)**
+**Live Demo Specs Shop di GitHub Pages(https://anwari-diky.github.io/Diki_Anwari_UTS_Web2/index.html)**
 
 > ⚠️ Ganti URL di atas dengan link GitHub Pages Anda setelah deploy.
 
