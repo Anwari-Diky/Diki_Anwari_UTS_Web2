@@ -56,47 +56,6 @@ Aplikasi ini mencakup alur belanja lengkap mulai dari registrasi akun, menelusur
 | 12 | **Pagination** | 8 produk per halaman dengan navigasi halaman |
 | 13 | **Panel Admin** | CRUD produk — tambah, edit, hapus dengan konfirmasi dialog |
 
----
-
-## 🚀 Cara Menjalankan
-
-### Prasyarat
-
-- [Node.js](https://nodejs.org/) (untuk build Tailwind CSS)
-- Browser modern (Chrome, Firefox, Edge)
-
-### Langkah Instalasi
-
-**1. Clone repository**
-```bash
-git clone https://github.com/username/NamaDepan_NamaBelakang_UTS_Web2.git
-cd NamaDepan_NamaBelakang_UTS_Web2
-```
-
-**2. Install dependensi**
-```bash
-npm install
-```
-
-**3. Build Tailwind CSS**
-```bash
-npm run build
-```
-
-**4. Jalankan dengan live server**
-
-Karena aplikasi menggunakan ES Modules dan `fetch()`, file harus diakses melalui HTTP server (bukan `file://`).
-
-- **VS Code** — Install ekstensi [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), klik kanan `index.html` → *Open with Live Server*
-- **Python** — `python -m http.server 8080` lalu buka `http://localhost:8080`
-- **Node.js** — `npx serve .` lalu buka URL yang ditampilkan
-
-### Mode Development (auto-rebuild CSS)
-
-```bash
-npm run watch
-```
-
 
 ## 📁 Struktur Folder
 
@@ -156,18 +115,6 @@ npm run watch
 | `wishlist_{userId}` | Array | Wishlist per user |
 | `theme` | String | Preferensi tema (`light`/`dark`) |
 | `products_override` | Array | Override produk dari admin panel |
-
----
-
-## 🌐 Deployment ke GitHub Pages
-
-1. Pastikan `css/output.css` sudah di-build dan **ikut di-commit**
-2. Push semua file ke repository GitHub (pastikan repo **Public**)
-3. Buka **Settings** → **Pages**
-4. Source: *Deploy from a branch* → Branch: `main` → Folder: `/ (root)`
-5. Klik **Save**, tunggu beberapa menit
-6. URL aktif: `https://username.github.io/NamaDepan_NamaBelakang_UTS_Web2/`
-7. Update link demo di bagian atas README ini
 
 ---
 
