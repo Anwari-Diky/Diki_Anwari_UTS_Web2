@@ -9,8 +9,6 @@
 
 **Live Demo Specs Shop di GitHub Pages(https://anwari-diky.github.io/Diki_Anwari_UTS_Web2/index.html)**
 
-> ⚠️ Ganti URL di atas dengan link GitHub Pages Anda setelah deploy.
-
 ---
 
 ## 📋 Deskripsi Project
